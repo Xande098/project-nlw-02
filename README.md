@@ -1,7 +1,7 @@
 <h1 align="center">
     Project: Proffy
     <h1 align="center">
-    <img alt="logo-proffy" title="Logo" src="src/assets/logo.svg" width="200px" />
+    <img alt="nlw-02" title="NLW #02" src=".github/nlw-02.jpg" width="260px" />
     </h1>
     <h3 align="center">Application for teachers to teach classes and content directly to student subscribers.</h3>
     <h3 align="center">Deployed <a href="#">here</a>.</h3>
@@ -43,13 +43,21 @@ This project was developed with the following technologies:
 Proffy was created with the aim of being a distance learning platform where teachers can sell their courses to any user who is interested.
 <h4>Deployed <a href="#">here</a>.</h4>
 
-<h1 align="center">
-    <img alt="web-version" title="Home-web" src="src/assets/landing.svg" width="620px" />
-</h1>
+<div style="display: flex">
+  <div align="center">
+    <strong style="font-size: 18px">Web</strong>
+    <h1 align="center" style="margin-right: 28px">
+      <img alt="web-version" title="Home-web" src=".github/home-web.svg" width="720px" />
+    </h1>
+  </div>
 
-<h1 align="center">
-    <img alt="mobile-version" title="Home-mobile" src="#" width="620px" />
-</h1>
+  <div align="center">
+    <strong style="font-size: 18px">Mobile</strong>
+    <h1 align="center">
+      <img alt="mobile-version" title="Home-mobile" src=".github/home-mobile.svg" width="280px" />
+    </h1>
+  </div>
+</div>
 
 ## 🔖 Layout
 
@@ -67,7 +75,7 @@ From your command line:
 $ git clone https://github.com/Xande098/nlw-02.git
 
 # Go into the repository
-$ cd nlw-02/backend
+$ cd nlw-02/server
 
 # Install dependencies
 $ yarn
