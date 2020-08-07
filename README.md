@@ -47,7 +47,7 @@ Proffy was created with the aim of being a distance learning platform where teac
   <div align="center">
     <strong style="font-size: 18px">Web</strong>
     <h1 align="center" style="margin-right: 28px">
-      <img alt="web-version" title="Home-web" src=".github/home-web.svg" width="620px" />
+      <img alt="web-version" title="Home-web" src=".github/home-web.svg" width="520px" />
     </h1>
   </div>
 
