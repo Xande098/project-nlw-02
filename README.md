@@ -4,12 +4,7 @@
     <img alt="nlw-02" title="NLW #02" src=".github/nlw-02.jpg" width="260px" />
     </h1>
     <h3 align="center">Application for teachers to teach classes and content directly to student subscribers.</h3>
-    <h3 align="center">Deployed <a href="#">here</a>.</h3>
 </h1>
-
-<!-- <h3 align="center">
-  <a href="https://app.netlify.com/sites/github-explorer098/deploys"><img src = "https://api.netlify.com/api/v1/badges/db9a6932-8e17-4137-8ac7-51abfaad0b12/deploy-status" alt ="Netlify Status" /></a>
-</h3> -->
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -41,7 +36,6 @@ This project was developed with the following technologies:
 ## 💻 Project
 
 Proffy was created with the aim of being a distance learning platform where teachers can sell their courses to any user who is interested.
-<h4>Deployed <a href="#">here</a>.</h4>
 
 <div style="display: flex">
   <div align="center">
