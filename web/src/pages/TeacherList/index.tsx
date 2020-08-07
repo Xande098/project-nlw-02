@@ -9,7 +9,6 @@ import api from '../../services/api';
 
 import './styles.css';
 
-
 function TeacherList() {
     const [teachers, setTeachers] = useState([]);
 
